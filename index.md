@@ -5,10 +5,10 @@
 **_Aspiring Full-stack Developer_**
 
 **Table of Contents:**
-  - [About me:](#about-me)
-  - [Code Example](#code-example)
-  - [Hobbies and Interests](#hobbies-and-interests)
-  - [Task List](#task-list)
+  1. [About me:](#about-me)
+  2. [Code Example](#code-example)
+  3. [Hobbies and Interests](#hobbies-and-interests)
+  4. [Task List](#task-list)
 
 
 ## About me:
