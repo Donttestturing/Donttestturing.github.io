@@ -57,12 +57,14 @@ This was an extra project I did to help with the final, since it was open-code. 
 ## Hobbies and Interests 
 I am a big fan of all sports (Soccer, Hockey, Basketball, etc.) as well as reading novels and analyzing movies. I also a fan of poetry. I find the powerful poignancy of short sharp words very pleasing to my aesthetic sensibility. A great resource for poetry is the [Poetry Foundation](https://www.poetryfoundation.org/)
 
- I think science can be quite magical at times, and I think many things people consider magically can be explained with science. With that in mind, here is a powerful quote by W.B. Yeats, a poet:
+ I think science can be quite magical at times, and I think many things people consider magical can be explained with science. With that in mind, here is a powerful quote by W.B. Yeats, a poet:
  
  >The world is full of magic things, patiently waiting for our senses to grow sharper
 
 
 ## Task List
+
+- [x] Get a summer internship
 - [ ] Get another summer internship
 - [ ] Graduate from College
 - [ ] Apply to Graduate Schools
