@@ -5,7 +5,6 @@
 **_Aspiring Full-stack Developer_**
 
 **Table of Contents:**
-- [Brendan Devlin](#brendan-devlin)
   - [About me:](#about-me)
   - [Code Example](#code-example)
   - [Hobbies and Interests](#hobbies-and-interests)
