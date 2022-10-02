@@ -16,7 +16,7 @@
  I am Microsoft Java certified and I have experience in:
  - C++
  - Python
- - Javascript.
+ - Javascript
 
 ## Code Example
 A code snippet I am proud is from my CSE 100 class:
